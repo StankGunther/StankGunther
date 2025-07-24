@@ -1,17 +1,12 @@
-## You've reached the stankiest place on the web! 🐧
+## Anthony here, nice to meet you!
 
-- Name: Anthony Mendez, AKA StankGunther
-- Age: 25 human years
-- Pronouns: He/Him
-- Location: Over Yonder
+Hello, I am Anthony Mendez, a self taught developer learning web development constantly! 
 
-Current Projects/Goals:
+My goal is to become a professional web developer sometime in the 2020s and to learn as much as I can before and during the start of my dream career!
 
-- Microsoft Fuilstack Developer Certificate
-- They're All Dead!, a horror TTRPG
-- An untitled, unstarted fighting game
+I'm currently working on my first project: a simple to do app. Overdone? Sure, but every chef started with scrambled eggs, you get me?
 
-Currently not looking to collab as I'm not comfortable with strangers, but feel free to view whatever I post! I'll only be using this profile for my certification progression and my education in learning how to be a fullstack developer!
+Feel free to keep an eye on my progress here! I don't have any social media, however.
 
 <!--
 **StankGunther/StankGunther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
