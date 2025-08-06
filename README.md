@@ -4,7 +4,7 @@ Hello, I am Anthony Mendez, a self taught developer learning web development con
 
 My goal is to become a professional web developer sometime in the 2020s and to learn as much as I can before and during the start of my dream career!
 
-I'm currently working on my first project: a simple to do app. Overdone? Sure, but every chef started with scrambled eggs, you get me?
+I'm currently working on my first project: a simple to do app. Overdone? Sure, but every chef started with scrambled eggs!
 
 Feel free to keep an eye on my progress here! I don't have any social media, however.
 
